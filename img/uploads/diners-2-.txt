@@ -1,0 +1,60 @@
+diners-titre-prefixe,"NOS ÉVÉNEMENTS EXCEPTIONNELS"
+diners-point1-texte,"Au fil de l’année, le restaurant Ducasse au château de Versailles vous ouvre exceptionnellement ses portes le soir à l’occasion de dîners exclusifs inspirés des temps forts du château.
+La promesse d’expériences inédites…."
+diners-pointspecial1-afficher,0
+diners-pointspecial1-couleur,blanc
+diners-pointspecial1-position,gauche
+diners-pointspecial1-titre,
+diners-pointspecial1-texte,desktop
+diners-pointspecial1-texte-mobile,mobile
+diners-pointspecial1-lien,
+diners-pointspecial1-lien-href,
+diners-pointspecial1-lien-target,_blank
+
+
+diners-point2-titre,"Les petits primeurs du Roi <br><span>Jeudi 12 avril 2018</span>"
+diners-point2-texte,"Aux premiers jours du Printemps, le chef Stéphane Duchiron imagine un dîner savoureux faisant la part belle aux jeunes légumes de saison, plus tendres et délicats. Une parenthèse gourmande pour se rappeler avec humour et délice de la folie des petits pois à la cour !"
+diners-point2-texte-mobile,"Aux premiers jours du Printemps, le chef Stéphane Duchiron imagine un dîner savoureux faisant la part belle aux jeunes légumes de saison, plus tendres et délicats. Une parenthèse gourmande pour se rappeler avec humour et délice de la folie des petits pois à la cour !"
+diners-point2-lien,"VOIR LE MENU"
+diners-point2-lien-href,/assets/doc/2016_10_04_ore_-_petit_dejeuner_fr.pdf
+diners-point2-lien-target,_blank
+diners-point2-lien"RESERVER"
+diners-point2-texte2,"Diner hors boissons : 350 € | 500 € par personne avec accord mets et vins"
+
+diners-point3-titre,"Une soirée exceptionnelle en hommage à la carrière lyrique de Verdi. Enrique Mazzola a réuni un quatuor de solistes, son orchestre en grand effectif et le chœur de l’Orchestre de Paris pour une interprétation pleine d’émotions du Requiem de Verdi. Un somptueux dîner viendra ponctuer avec raffinement cette soirée.
+390 € billet spectacle en Prestige et menu avec accord mets et vins"
+diners-point3-lien,"VOIR LE MENU"
+diners-point3-lien-href,/assets/doc/2018_01_10-ORE-CARTE-MIDI-FR.PDF
+diners-point3-lien-target,_blank
+diners-point2-lien"RESERVER"
+diners-point3-texte2,"391 € billet spectacle en Prestige et menu avec accord mets et vins"
+
+diners-point4-titre,"Les délices de la Reine <br><span>Visite privée <br>Mercredi 11 juillet 2018</span>"
+diners-point4-texte,"Le domaine de la Reine Marie-Antoinette est recouvert de vignes, vergers et potagers qui contribuent surtout à garnir sa table, réputée délicieuse. Inspiré par les brillants « repas de société » qu’elle organisait, le chef Stéphane Duchiron a imaginé un menu de saison aux notes végétales...Le tout présenté dans le service ‘Marie Antoinette’ de la Manufacture Royale de Sèvres, réédité à l’identique par Bernardaud."
+diners-point4-lien,"VOIR LE MENU"
+diners-point4-lien-href,"/assets/doc/2018_01_10-ORE-CARTE-APRES-MIDI-FR.PDF"
+diners-point4-lien-target,_blank
+diners-point4-texte2,"Visite exclusive du Domaine de Marie-Antoinette* et menu avec accord mets et vins : 500 € par personne
+*le parcours de visite sera adapté en fonction des conditions climatiques."
+
+diners-titre-prefixe,"OUR EXCEPTIONAL EVENTS/EVENINGS"
+diners-point1-texte,"The restaurant Ducasse au château de Versailles opens its doors for a collection of exclusive dinners inspired by anecdotes and key events at the Palace. 
+The promise of a once-in-a-lifetime experience…"
+
+diners-point1-titre"THE KING’S EARLY VEGETABLES"<br><span>Thursday, April 12th</span>"
+diners-point1-texte-texte,"In the early days of Spring, Chef Stéphane Duchiron creates a scrumptious dinner with tender and delicate fresh seasonal vegetables. A gourmet parenthesis reminiscent of the time when green peas were a fashion at court!"
+diners-point1-lien,"View the menu / Book"
+
+diners-point2-titre"FESTIVE DINNER AT COURT x VERDI’S REQUIEM"<br><Span> Opera in the gallery of The Orangery & Dinner </span>"
+Sunday, Mai 27th 
+An exceptional evening in memory of Verdi's career in opera. Enrique Mazzola has gathered a quartet of soloists, his full orchestra and the Orchestre de Paris choir for an emotional interpretation of Verdi's Requiem. A sumptuous dinner will add a refined touch to this evening.
+390 € Prestige show ticket and menu with wine-pairing
+View the menu / Book
+
+diners-point3-titre,"THE QUEEN’S DELIGHTS"<br><span>Exclusive visit of Marie-Antoinette’s Estate & Dinner Wednesday, July 04th </span>
+diners-point3-texte,"Queen Marie Antoinette’s estate is covered with vines, orchards and vegetable gardens that contribute to supply her renowned table. Inspired by the brilliant "socialite meals" she used to organize, chef Stéphane Duchiron imagined a seasonal menu with vegetal notes... The 'Marie Antoinette' service re-edited by Bernardaud will be used to serve the dishes.
+diners-point3-texte,"Exclusive visit of Marie-Antoinette’s Estate and menu with wine-pairing: 
+500 € per person
+*the private tour will be adapted to the weather conditions"
+ 
+
